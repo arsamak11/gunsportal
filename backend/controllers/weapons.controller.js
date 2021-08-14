@@ -1,0 +1,1 @@
+const Weapon = require("../models/Weapon.model");
